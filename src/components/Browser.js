@@ -1,7 +1,9 @@
+import Header from "./Header"
+
 const Browser = () => {
     return(
         <div>
-            Browser Page
+            <Header/>
         </div>
     )
 }
